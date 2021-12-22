@@ -1,0 +1,7 @@
+install.packages("reticulate")
+install.packages("dplyr")
+install.packages("readr")
+install.packages("ggplot2")
+install.packages("knitr")
+install.packages("reshape2")
+install.packages("tidyr")
